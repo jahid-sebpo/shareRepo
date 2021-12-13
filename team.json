@@ -1,25 +1,79 @@
-{"match_home_team":
-{
-    "competitorId": "ba49bb1d-afbd-43df-a2f4-3653db7adce6",
-    "title": "Broncos",
-    "win":
+"items": [
     {
-        "marketId": "3fdeebae-1169-4ca0-9f02-7aa03c4c6abd",
-        "outcomeId": "cfe73043-9fd5-4e73-a685-56531db4c794",
-        "price": 7.1
+      "id": "b26e5acc-02ff-4b22-ae69-0491fbd2500e$Basketball:1c2eeb3a-6bab-4ac2-b434-165cc350180f$Basketball:5f880a67-be26-3fc7-c6ef-534e4ad340ec:dd5d9737-c84d-43d0-a7ce-08fa045d8279",
+      "name": "Cleveland Cavaliers - Miami Heat - Match Result",
+      "sport_id": "b26e5acc-02ff-4b22-ae69-0491fbd2500e$Basketball",
+      "sport_title": "Basketball",
+      "sport_type": "Basketball",
+      "league_id": "1c2eeb3a-6bab-4ac2-b434-165cc350180f$Basketball",
+      "league_title": "NBA",
+      "event_id": "5f880a67-be26-3fc7-c6ef-534e4ad340ec",
+      "clickthrough_url": "https://www.palmerbet.com/sports/rugby-league/match/5f880a67-be26-3fc7-c6ef-534e4ad340ec",
+      "match_name": "Cleveland Cavaliers - Miami Heat",
+      "match_status": "NotStarted",
+      "match_state": "Other",
+      "category_id": "1c2eeb3a-6bab-4ac2-b434-165cc350180f$Basketball",
+      "category": "NBA",
+      "root_category": "b26e5acc-02ff-4b22-ae69-0491fbd2500e$Basketball",
+      "market_id": "dd5d9737-c84d-43d0-a7ce-08fa045d8279",
+      "market": "Match Result",
+      "market_description": "Includes Overtime",
+      "market_is_handicap": false,
+      "market_status": "Open",
+      "market_suspension_type": "Managed",
+      "market_type": "Win",
+      "market_outcomes": [
+        {
+          "title": "Cleveland Cavaliers",
+          "status": "Active",
+          "prices": [
+            {
+              "name": "Fixed",
+              "priceSnapshot": {
+                "opening": 0.0,
+                "top": 0.0,
+                "current": 1.47
+              }
+            }
+          ],
+          "id": "a481d0ce-ed6b-4d1b-b1d6-486c2d99a35c"
+        },
+        {
+          "title": "Miami Heat",
+          "status": "Active",
+          "prices": [
+            {
+              "name": "Fixed",
+              "priceSnapshot": {
+                "opening": 0.0,
+                "top": 0.0,
+                "current": 2.7
+              }
+            }
+          ],
+          "id": "589978e5-43c5-446f-82f2-2b452ac9b9f3"
+        }
+      ],
+      "start_time": 1639440000000,
+      "match_home_team": {
+        "competitorId": "50318a6f-7d7d-4fb2-b182-eb603f521769",
+        "title": "Cleveland Cavaliers",
+        "win": {
+          "marketId": "dd5d9737-c84d-43d0-a7ce-08fa045d8279",
+          "outcomeId": "a481d0ce-ed6b-4d1b-b1d6-486c2d99a35c",
+          "price": 1.45
+        },
+          "team_jersey": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/nrl/broncos.png"
+      },
+      "match_away_team": {
+        "competitorId": "5f4ab7f6-0788-414e-a2b4-4c4111425b1f",
+        "title": "Miami Heat",
+        "win": {
+          "marketId": "dd5d9737-c84d-43d0-a7ce-08fa045d8279",
+          "outcomeId": "589978e5-43c5-446f-82f2-2b452ac9b9f3",
+          "price": 2.78
+        },
+          "team_jersey": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/nrl/broncos.png"
+      }
     },
-    "team_jersey": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/nrl/broncos.png"
-},
-"match_away_team":
-{
-    "competitorId": "167c9fb6-76c2-4ad5-8f3b-488da40b0452",
-    "title": "Storm",
-    "win":
-    {
-        "marketId": "3fdeebae-1169-4ca0-9f02-7aa03c4c6abd",
-        "outcomeId": "3bdc238c-d249-4be9-9180-86773acee809",
-        "price": 1.1
-    },
-    "team_jersey": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/nrl/storm.png"
-}
-}
+]
