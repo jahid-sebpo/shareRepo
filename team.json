@@ -1,0 +1,25 @@
+{"match_home_team":
+{
+    "competitorId": "ba49bb1d-afbd-43df-a2f4-3653db7adce6",
+    "title": "Broncos",
+    "win":
+    {
+        "marketId": "3fdeebae-1169-4ca0-9f02-7aa03c4c6abd",
+        "outcomeId": "cfe73043-9fd5-4e73-a685-56531db4c794",
+        "price": 7.1
+    },
+    "team_jersey": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/nrl/broncos.png"
+},
+"match_away_team":
+{
+    "competitorId": "167c9fb6-76c2-4ad5-8f3b-488da40b0452",
+    "title": "Storm",
+    "win":
+    {
+        "marketId": "3fdeebae-1169-4ca0-9f02-7aa03c4c6abd",
+        "outcomeId": "3bdc238c-d249-4be9-9180-86773acee809",
+        "price": 1.1
+    },
+    "team_jersey": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/nrl/storm.png"
+}
+}
