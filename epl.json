@@ -1,0 +1,82 @@
+{
+   "Arsenal": {
+      "Team_Creative": "Arsenal",
+      "Jersey_Image": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/epl/Arsenal.png"
+   },
+   "Aston Villa": {
+      "Team_Creative": "Aston Villa",
+      "Jersey_Image": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/epl/Aston_Villa.png"
+   },
+   "Brentford": {
+      "Team_Creative": "Brentford",
+      "Jersey_Image": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/epl/Brentford.png"
+   },
+   "Brighton & Hove Albion": {
+      "Team_Creative": "Brighton",
+      "Jersey_Image": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/epl/Brighton.png"
+   },
+   "Burnley": {
+      "Team_Creative": "Burnley",
+      "Jersey_Image": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/epl/Burnley.png"
+   },
+   "Chelsea": {
+      "Team_Creative": "Chelsea",
+      "Jersey_Image": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/epl/Chelsea.png"
+   },
+   "Crystal Palace": {
+      "Team_Creative": "Crystal Palace",
+      "Jersey_Image": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/epl/Crystal_Palace.png"
+   },
+   "Everton F.C.": {
+      "Team_Creative": "Everton",
+      "Jersey_Image": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/epl/Everton.png"
+   },
+   "Leeds United": {
+      "Team_Creative": "Leeds United",
+      "Jersey_Image": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/epl/Leeds.png"
+   },
+   "Leicester City": {
+      "Team_Creative": "Leicester City",
+      "Jersey_Image": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/epl/Leicester_City.png"
+   },
+   "Liverpool": {
+      "Team_Creative": "Liverpool",
+      "Jersey_Image": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/epl/Leicester_City.png"
+   },
+   "Manchester City": {
+      "Team_Creative": "Man City",
+      "Jersey_Image": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/epl/Man_City.png"
+   },
+   "Manchester United": {
+      "Team_Creative": "Man United",
+      "Jersey_Image": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/epl/Man_Utd.png"
+   },
+   "Newcastle United": {
+      "Team_Creative": "Newcastle",
+      "Jersey_Image": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/epl/Newcastle.png"
+   },
+   "Norwich City": {
+      "Team_Creative": "Norwich City",
+      "Jersey_Image": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/epl/Norwich_City.png"
+   },
+   "Southampton": {
+      "Team_Creative": "Southampton",
+      "Jersey_Image": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/epl/Southampton.png"
+   },
+   "Tottenham Hotspur": {
+      "Team_Creative": "Tottenham",
+      "Jersey_Image": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/epl/Tottenham.png"
+   },
+   "Watford": {
+      "Team_Creative": "Watford",
+      "Jersey_Image": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/epl/Watford.png"
+   },
+   "West Ham": {
+      "Team_Creative": "West Ham",
+      "Jersey_Image": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/epl/West_Ham.png"
+   },
+   "Wolverhampton Wanderers": {
+      "Team_Creative": "Wolves",
+      "Jersey_Image": "https://cdn.flashtalking.com/feeds/palmerbet/teamlogos/epl/Wolves.png"
+   }
+}
